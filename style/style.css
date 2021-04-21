@@ -1,0 +1,25 @@
+body {
+  background: palevioletred;
+  color: white;
+  text-align: center;
+}
+
+img {
+  border-radius: 25px;
+  margin-bottom: 25px;
+}
+
+a {
+  color: white;
+  margin: 5px;
+}
+
+a:hover {
+  color: pink;
+}
+
+p {
+  width: 600px;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
